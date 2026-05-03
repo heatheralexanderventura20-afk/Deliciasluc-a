@@ -1,0 +1,17 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#fff0f5;
+margin:0;
+}
+
+header{
+background:#ff69b4;
+color:white;
+padding:20px;
+}
+
+img{
+border-radius:15px;
+margin-top:15px;
+}
